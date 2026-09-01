@@ -1,0 +1,38 @@
+{
+  "site": {
+    "name": "Hussain Khan",
+    "brandLine": "FILM • POST • SOFTWARE",
+    "email": "contact@hussainkhan.com",
+    "languageDefault": "ar",
+    "heroImage": "assets/img/hero.jpg"
+  },
+  "home": {
+    "welcome": {"ar": "مرحباً بكم في عالمي", "en": "WELCOME TO MY WORLD"},
+    "title": {"ar": "حسين خان", "en": "HUSSAIN KHAN"},
+    "lead": {"ar": "أصنع قصصاً تُلهم الناس، وأطوّر أدوات تمكّن صُنّاع المحتوى.", "en": "I create stories that move people, and tools that empower creators."},
+    "roles": ["Filmmaker", "Editor", "Colorist", "VFX", "Sound Engineer", "Developer"],
+    "featuredTitle": {"ar": "أقسام مختارة", "en": "Featured Sections"},
+    "featuredText": {"ar": "الأفلام، الأدوات والبرامج التي أعمل عليها.", "en": "Films, creative tools and software I build."},
+    "contactTitle": {"ar": "لنعمل معاً", "en": "Let’s work together"},
+    "contactText": {"ar": "للتعاون في فيلم، مشروع Post Production أو للاستفسار عن البرامج والإضافات.", "en": "For film collaboration, post-production work, or software and plugin inquiries."}
+  },
+  "about": {
+    "bio": {"ar": "صانع أفلام، مونتير، ملون، فنان مؤثرات بصرية، مهندس صوت ومطور برامج.", "en": "Filmmaker, editor, colorist, VFX artist, sound engineer and software developer."}
+  },
+  "films": [
+    {"id":"film-1","title":{"ar":"مشروع سينمائي مختار","en":"Selected Film"},"type":"FILM","year":"2026","description":{"ar":"أضف الملصق والملخص والطاقم والجوائز والتريلر وروابط المشاهدة.","en":"Add the final poster, synopsis, credits, awards, trailer and watch links here."},"image":"assets/img/film-card.jpg","url":""}
+  ],
+  "plugins": [
+    {"id":"hk-cinematic-suite","name":"HK Cinematic Suite","type":"OFX","version":"2.2.0","platform":"macOS / Windows","host":"DaVinci Resolve","description":{"ar":"أدوات إبداعية للتلوين والـ finishing داخل DaVinci Resolve.","en":"Creative color and finishing controls for DaVinci Resolve."},"image":"assets/img/plugin-card.jpg","page":"plugins/hk-cinematic-suite.html","downloadMac":"","downloadWindows":"","manual":""}
+  ],
+  "dctl": [
+    {"id":"hk-dctl-tools","name":"HK DCTL Tools","type":"DCTL PACK","description":{"ar":"حزمة أدوات لونية مخصصة لـ DaVinci Resolve.","en":"A dedicated color-tool pack for DaVinci Resolve."},"image":"assets/img/dctl-card.jpg","download":""}
+  ],
+  "downloads": [],
+  "contact": {
+    "headline": {"ar":"لنعمل معاً","en":"Let’s work together"},
+    "text": {"ar":"للتعاون في فيلم أو Post Production أو للاستفسار عن البرامج والإضافات.","en":"For film collaboration, post-production work, or software and plugin inquiries."},
+    "web3formsAccessKey": ""
+  },
+  "social": {"instagram":"","youtube":"","vimeo":"","linkedin":""}
+}

@@ -1,0 +1,15 @@
+name = "hk-admin-api"
+main = "worker.js"
+compatibility_date = "2026-08-01"
+
+[vars]
+ADMIN_USERNAME = "admin"
+GITHUB_OWNER = "YOUR_GITHUB_USERNAME"
+GITHUB_REPO = "hussain-khan-site"
+GITHUB_BRANCH = "main"
+ALLOWED_ORIGIN = "https://hussainkhan-irgn.ipfs.4everland.app"
+
+# Add these as encrypted secrets in Cloudflare, NOT here:
+# ADMIN_PASSWORD
+# SESSION_SECRET
+# GITHUB_TOKEN
