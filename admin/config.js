@@ -1,3 +1,3 @@
 window.HK_ADMIN_CONFIG={
-  apiBase:"https://YOUR-WORKER.YOUR-SUBDOMAIN.workers.dev"
+  apiBase:"https://hk-admin-api.hussain77khan.workers.dev"
 };
